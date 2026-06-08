@@ -4,5 +4,6 @@
     $product = new Product;
 
     $product->add($_POST);
+// something
 
-?>
+?>  
